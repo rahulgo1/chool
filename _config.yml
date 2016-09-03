@@ -1,14 +1,14 @@
 # Site wide configuration
 
-title: So Simple Theme
+title: CHOOL
 locale: en_US
-description: A simple and clean responsive Jekyll theme for words and photos.
+description: COOL + HOT = CHOOL
 logo: site-logo.png
-url: https://mmistakes.github.io/so-simple-theme
+url: https://rahulgo1.github.io/chool/
 
 # Jekyll configuration
 
-permalink:   /:categories/:title/
+permalink:   /:categories/CHOOL/
 markdown:    kramdown
 highlighter: rouge
 sass:
@@ -25,7 +25,7 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..2
-  use_coderay: false
+  enable_coderay: false
 
 mathjax: true
 
@@ -36,7 +36,7 @@ comments: true
 
 # Site owner
 owner:
-  name: Michael Rose
+  name: rahul goyal
   avatar: michael-rose-photo.jpg
   email: michael@mademistakes.com
   disqus-shortname: sosimpletheme
